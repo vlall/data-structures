@@ -1,3 +1,5 @@
+#Some of these might be useful excerpt from textbooks I wanted to save for later imlementation. 
+
 #Hamming Distance
 def hamming_distance(s1, s2):
   #Return the Hamming distance between equal-length sequences
