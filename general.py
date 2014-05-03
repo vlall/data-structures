@@ -43,8 +43,3 @@ def sim_pearson(prefs,p1,p2):
   if den==0: return 0
   r=num/den
   return r
-
-                return float("inf")
-
-        def __str__(self):
-            return '\n'.join([str(i+1)+' '+str(layer) for i,layer in enumerate(self.layers)])
