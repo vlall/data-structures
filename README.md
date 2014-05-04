@@ -1,4 +1,4 @@
-Data_Structures
+Essential Data Structures
 ===============
 
-Useful data structures in Python with real world applications
+Essential data structures in various languages. Later, I intend to include real world applications with each structure.
